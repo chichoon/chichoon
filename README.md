@@ -1,4 +1,14 @@
 ### Hi there 👋
+[![Kaggle Badge](https://img.shields.io/badge/Kaggle--9cf?logo=kaggle)](https://www.kaggle.com/chichoon)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin--912020?logo=linkedin)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
+[![Blog Badge](https://img.shields.io/badge/PersonalBlog--8AA7AB)](https://chichoon.tistory.com/)  
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chichoon&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chichoon&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!--
 **chichoon/chichoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
