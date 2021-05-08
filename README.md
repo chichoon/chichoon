@@ -7,7 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chichoon&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jiychoi?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
