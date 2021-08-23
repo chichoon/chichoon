@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![Kaggle Badge](https://img.shields.io/badge/Kaggle--9cf?logo=kaggle)](https://www.kaggle.com/chichoon)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin--912020?logo=linkedin)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
 [![Blog Badge](https://img.shields.io/badge/PersonalBlog--8AA7AB)](https://chichoon.tistory.com/)  
 
