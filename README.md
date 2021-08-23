@@ -1,8 +1,9 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin--912020?logo=linkedin)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
-[![Blog Badge](https://img.shields.io/badge/PersonalBlog--8AA7AB)](https://chichoon.tistory.com/)  
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-eccf25?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
+[![Blog Badge](https://img.shields.io/badge/-Personal%20Blog-ab5b18?&style=flat-square)](https://chichoon.tistory.com/)
+[![42 Badge](https://img.shields.io/badge/-42%20Profile-BB0A1E?logo=42&style=flat-square)](https://profile.intra.42.fr/users/jiychoi)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chichoon&show_icons=true&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chichoon&show_icons=true&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jiychoi?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
