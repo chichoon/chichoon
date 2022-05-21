@@ -16,6 +16,8 @@
 ![react badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
 ![sass badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![styled badge](https://img.shields.io/badge/-Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![redux badge](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![react-query badge](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=React%20Query&logoColor=white)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chichoon&show_icons=true&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 
