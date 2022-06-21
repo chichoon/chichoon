@@ -21,7 +21,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chichoon&show_icons=true&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chichoon&layout=compact&exclude_repo=study&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chichoon)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chichoon&layout=compact&exclude_repo=java_study,Sugar1Cup&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chichoon)
 
 <!--
 
