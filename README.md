@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchichoon&count_bg=%235FADFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
 [![42 Badge](https://img.shields.io/badge/-42%20Profile-000000?logo=42&style=flat-square)](https://profile.intra.42.fr/users/jiychoi)
-
+![boostcamp](https://img.shields.io/badge/-boostcamp%20Web&Mobile%207th-005CFD?style=flat-square)
 
 ### 🌱 I’m currently learning ...
 ![C badge](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
