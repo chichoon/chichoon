@@ -7,7 +7,7 @@
 
 ![preonboarding](https://img.shields.io/badge/Wanted%20PreOnboarding%20FE%204th-2022.05~2022.06-777777?style=for-the-badge&labelColor=02AFE8)
 
-![boostcamp](https://img.shields.io/badge/boostcamp%20Web・Mobil%20Membership%207th-2022.08~2022.12-777777?style=for-the-badge&labelColor=005CFD)
+![boostcamp](https://img.shields.io/badge/boostcamp%20Web・Mobile%20Membership%207th-2022.08~2022.12-777777?style=for-the-badge&labelColor=005CFD)
 
 ### 🌱 I’m currently learning ...
 ![C badge](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
