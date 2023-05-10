@@ -1,9 +1,12 @@
 ### Hi there 👋
 
+[![About-me Badge](https://img.shields.io/badge/-About%20me-000000?style=flat-square)](https://about-me.chichoon.com)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchichoon&count_bg=%235FADFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&style=flat-square)](mailto:chichoon.choi@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?logo=tistory&style=flat-square)](https://blog.chichoon.com)
+
 
 ![School](https://img.shields.io/badge/Konkuk%20Univ.-2017.03~2021.02-777777?style=for-the-badge&labelColor=0E5F3D)
 [![42 Badge](https://img.shields.io/badge/42Seoul-2021.05~-777777?logo=42&style=for-the-badge&labelColor=000000)](https://profile.intra.42.fr/users/jiychoi)
