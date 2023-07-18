@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![About-me Badge](https://img.shields.io/badge/-About%20me-000000?style=flat-square)](https://about-me.chichoon.com)
+[![resume Badge](https://img.shields.io/badge/-Resume-ff0000?style=flat-square)](https://resume.chichoon.com)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchichoon&count_bg=%235FADFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
