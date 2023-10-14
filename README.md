@@ -26,8 +26,8 @@
 ![JS badge](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![TS badge](https://img.shields.io/badge/-Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
 
-![react badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=Svelte&logoColor=white)
-![svelte badge](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=React&logoColor=white)
+![react badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![svelte badge](https://img.shields.io/badge/-Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white)
 ![vue badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![sass badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![styled badge](https://img.shields.io/badge/-Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
