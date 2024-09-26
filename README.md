@@ -10,11 +10,14 @@
 
 
 ![School](https://img.shields.io/badge/Konkuk%20Univ.-2017.03~2021.02-777777?style=for-the-badge&labelColor=0E5F3D)
+
+<!--
 [![42 Badge](https://img.shields.io/badge/42Seoul-2021.05~-777777?logo=42&style=for-the-badge&labelColor=000000)](https://profile.intra.42.fr/users/jiychoi)
 
 ![preonboarding](https://img.shields.io/badge/Wanted%20PreOnboarding%20FE%204th-2022.05~2022.06-777777?style=for-the-badge&labelColor=02AFE8)
 
 ![boostcamp](https://img.shields.io/badge/boostcamp%20Web・Mobile%20Membership%207th-2022.08~2022.12-777777?style=for-the-badge&labelColor=005CFD)
+-->
 
 ### 🌱 I’m currently learning ...
 
@@ -31,8 +34,9 @@
 ![vue badge](https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![sass badge](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
 ![styled badge](https://img.shields.io/badge/-Styled-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![tailwind badge](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![redux badge](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white)
-![react-query badge](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=React%20Query&logoColor=white)
+![react-query badge](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat-square&logo=React%20Query&logoColor=white)
 ![express badge](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chichoon&show_icons=true&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
