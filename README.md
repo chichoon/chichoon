@@ -1,10 +1,6 @@
-### Hi there 👋
-
-[![About-me Badge](https://img.shields.io/badge/-About%20me-000000?style=flat-square)](https://about-me.chichoon.com)
 <!--
+[![About-me Badge](https://img.shields.io/badge/-About%20me-000000?style=flat-square)](https://about-me.chichoon.com)
 [![resume Badge](https://img.shields.io/badge/-Resume-ff0000?style=flat-square)](https://resume.chichoon.com)
--->
-
 
 ![C badge](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![CPP badge](https://img.shields.io/badge/-CPP-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
@@ -23,27 +19,15 @@
 ![redux badge](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![react-query badge](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=flat-square&logo=React%20Query&logoColor=white)
 ![express badge](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white)
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchichoon&count_bg=%235FADFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&style=flat-square)](mailto:chichoon.choi@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?logo=tistory&style=flat-square)](https://blog.chichoon.com)
+-->
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square)](https://www.linkedin.com/in/ji-yoon-choi-252920201/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square)](mailto:chichoon.choi@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/-Tistory-000000?style=flat-square)](https://blog.chichoon.com)
 
 
 ![School](https://img.shields.io/badge/Konkuk%20Univ.-2017.03~2021.02-777777?style=for-the-badge&labelColor=0E5F3D)
 
-<!--
-[![42 Badge](https://img.shields.io/badge/42Seoul-2021.05~-777777?logo=42&style=for-the-badge&labelColor=000000)](https://profile.intra.42.fr/users/jiychoi)
-
-![preonboarding](https://img.shields.io/badge/Wanted%20PreOnboarding%20FE%204th-2022.05~2022.06-777777?style=for-the-badge&labelColor=02AFE8)
-
-![boostcamp](https://img.shields.io/badge/boostcamp%20Web・Mobile%20Membership%207th-2022.08~2022.12-777777?style=for-the-badge&labelColor=005CFD)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chichoon&show_icons=true&theme=kacho_ga)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chichoon&layout=compact&exclude_repo=java_study,Sugar1Cup&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) ![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chichoon)
+![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chichoon)
 
 <!--
 
